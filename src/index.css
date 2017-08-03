@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    padding: 0;
+}
+
+.navbar-form.navbar-top{
+    padding: 10px 0;
+}
+.user-name {
+    font-size: large;
+}
+
+.description {
+    font-size: large;
+    margin: 5px 0;
+}
+
+.create-ad {
+    margin-top: 0;
+}
+.delete-bnt-wrapper{
+    display: inline;
+    margin: 5px 5px 0 0;
+}
+.edit-form {
+    margin: 20px 10px 10px;
+}
