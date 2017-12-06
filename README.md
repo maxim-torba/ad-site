@@ -1,5 +1,5 @@
 # ad-site
-Test job from "software Giraffe" company
+Test job from "GiraffeSoftware" company
 
 This is ad-site buit on React and Bootstrap. Try on [http://ad-site.surge.sh/](http://ad-site.surge.sh/)
 
